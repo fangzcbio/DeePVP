@@ -7,5 +7,10 @@ DeePVP is a tool for the identification and classification of phage virion prote
 
 ![151703377-b3153bab-911e-49f6-b16d-9b43fdef9eed](https://user-images.githubusercontent.com/107048586/172389231-10ce628c-e167-4f22-be2e-235128063fe3.png)
 
+Manuals
+-------
+
+Please refer to [DeePVP manual.pdf]: (https://github.com/fangzcbio/DeePVP/blob/main/DeePVP%20manual.pdf) to see the DeePVP usage.
+
 
 
