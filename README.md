@@ -1,4 +1,5 @@
-# DeePVP
+DeePVP
+==============
 
 DeePVP can be run in both a virtual machine with graphical user interface (GUI) and a docker, please refer to the file "DeePVP manual.pdf" to see how to run the tool.
 
