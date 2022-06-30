@@ -33,7 +33,7 @@ Reproduction
 ------------
 All the supporting data for results reproduction is available in the GigaScience repository, [GigaDB](http://gigadb.org/). By referring to the "document_for_results_reproduction.txt" file and all the “readme” files, the readers can easily reproduce all the results.
 
-License
+Licence
 -------
 DeePVP is distributed under a GPL-3.0 license.
 
