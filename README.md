@@ -4,6 +4,9 @@ DeePVP
 #### Contact
 fangzc@smu.edu.cn or hzhou@smu.edu.cn
 
+Change logs
+-------
+2023.10.11 The manual was updated because of the change of the virtual machine link.
 
 Introduction
 -------
